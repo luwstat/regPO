@@ -1,0 +1,10 @@
+Package: regPO
+POType: Package
+Title: Regression analysis of arbitrarily censored data under the proportional odds model
+Version: 0.1.1
+Author: Lu Wang and Lianming Wang
+Maintainer: Lu Wang <lu.wang@wne.edu>
+Description: Fits the semi-parametric maximum likelihood estimator for univariate (left-truncated) arbitrarily censored data using EM algorithm.
+License: MIT
+Encoding: UTF-8
+LazyData: true
